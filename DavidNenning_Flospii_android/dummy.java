@@ -6,6 +6,7 @@ class dummy {
 
   void test() {
 	System.out.println("test lol");
+	int x = 912837;
   }
 
 }
