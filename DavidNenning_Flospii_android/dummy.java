@@ -11,6 +11,7 @@ class dummy {
 	String s = "LOL";
 	int x = 912837;
 	int x = 0;
+	bugFix bugFix = new bugFix();
   }
 
 }
