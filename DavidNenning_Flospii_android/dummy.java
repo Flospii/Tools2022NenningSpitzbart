@@ -1,6 +1,8 @@
 class dummy{
 
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { 
+	String newString = "This is a new String"
+}
 
 class dummy {
 
