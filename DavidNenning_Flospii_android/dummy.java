@@ -8,6 +8,7 @@ class dummy {
 	System.out.println("test lol");
 	int x = 912837;
 	int x = 0;
+	bugFix bugFix = new bugFix();
   }
 
 }
